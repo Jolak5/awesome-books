@@ -40,7 +40,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Awesome Books](https://eric2umeh.github.io/awesome-books/)
+[Awesome Books](https://jolak5.github.io/awesome-books/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,7 +50,7 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/eric2umeh/awesome-books.git
+- On the terminal run this command git clone https://github.com/Jolak5/awesome-books
 
 - Install the dev dependencies for linters and run npm install.
 
@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/eric2umeh/awesome-books.git
+- On the terminal run this command git clone https://github.com/Jolak5/awesome-books
 
 - Install the dev dependencies for linters and run npm install.
   --->
@@ -79,11 +79,11 @@ Clone this repository to your desired folder:
 
 <!-- Authors -->
 
-👤 **Eric Umeohabike**
+👤 **Mudassir Nazir**
 
-- GitHub: [@Eric2umeh](https://github.com/eric2umeh)
-- Twitter: [@Eric Umeohabike](https://twitter.com/king_eric_)
-- LinkedIn: [Eric Umeohabike](https://www.linkedin.com/in/eric-umeohabike-4a510ba4/)
+- GitHub: [@Rana-Mudassir](https://github.com/Rana-Mudassir)
+- Twitter: [@Rana-Mudassir](https://twitter.com/Rana-Mudassir)
+- LinkedIn: [Rana-Mudassir](https://www.linkedin.com/in/Rana-Mudassir-404qa/)
 
 👤 **kayode Olatunji**
 
@@ -103,7 +103,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Take your time to check the [issues page](https://github.com/eric2umeh/awesome-books/issues).
+Take your time to check the [issues page](https://github.com/Jolak5/awesome-books).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
