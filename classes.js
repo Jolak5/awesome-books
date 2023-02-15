@@ -1,3 +1,4 @@
+/* eslint-disable operator-linebreak */
 const inputFormSection = document.getElementById('input-forms');
 const awesomeBooksSection = document.getElementById('awesome-book');
 const showListButton = document.getElementById('show-list-buttons');
