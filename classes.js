@@ -1,3 +1,4 @@
+/* eslint-disable operator-linebreak */
 const inputFormSection = document.getElementById('input-forms');
 const awesomeBooksSection = document.getElementById('awesome-book');
 const showListButton = document.getElementById('show-list-buttons');
@@ -9,13 +10,13 @@ const switchMode = (node) => {
   if (showListButton !== node && showListButton.classList.contains('active')) {
     showListButton.classList.remove('active');
   } else if (
-    addNewButton !== node
-    && addNewButton.classList.contains('active')
+    addNewButton !== node &&
+    addNewButton.classList.contains('active')
   ) {
     addNewButton.classList.remove('active');
   } else if (
-    contactInfoButton !== node
-    && contactInfoButton.classList.contains('active')
+    contactInfoButton !== node &&
+    contactInfoButton.classList.contains('active')
   ) {
     contactInfoButton.classList.remove('active');
   }
